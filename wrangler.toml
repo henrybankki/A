@@ -3,5 +3,5 @@ main = "Worker.js"
 compatibility_date = "2026-01-01"
 
 kv_namespaces = [
-  { binding = "KV", id = "YOUR_KV_ID" }
+  { binding = "KV", id = "12d27f22203c4062bb3774283ae47e51" }
 ]
