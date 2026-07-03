@@ -1,0 +1,7 @@
+name = "watti-api"
+main = "Worker.js"
+compatibility_date = "2026-01-01"
+
+kv_namespaces = [
+  { binding = "KV", id = "YOUR_KV_ID" }
+]
